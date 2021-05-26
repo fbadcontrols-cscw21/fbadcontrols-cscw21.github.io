@@ -8,7 +8,7 @@ nav_order: 2
 
 We refer to controls placed in a menu directly on a particular ad as **contextual controls.** The primary context menu can be accessed by clicking the three dots at the top right of a Facebook ad, and contains these options:
 
-* Hide Ad ("Never see this ad again")
+* [Hide Ad](hide-ad.html) ("Never see this ad again")
 * Report Ad ("Tell us about a problem with this ad")
 * Save post/video/link (depending on ad format)
 * Copy link
