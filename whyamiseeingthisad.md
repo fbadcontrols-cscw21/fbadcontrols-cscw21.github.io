@@ -19,7 +19,7 @@ Selecting "Why am I seeing this ad?" brings up a menu with a bulleted list of re
 
 Selecting a reason in the list will show an extended description about that reason and a related control (e.g. Manage Location Settings for location-based ads.) Related controls may also be available on the main Why Am I Seeing This Ad? page. Some of those controls are listed below.
 
-## Desktop (February 2021)
+### Desktop (February 2021)
 *An example "Why am I seeing this ad? menu.*
 ![Why am I seeing this ad?](contextual/why.png)
 
