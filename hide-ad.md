@@ -1,7 +1,7 @@
 ---
 title: Hide ad
 parent: Contextual ad controls
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
