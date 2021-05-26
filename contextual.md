@@ -15,7 +15,7 @@ We refer to controls placed in a menu directly on a particular ad as **contextua
 * Turn on notifications for this post
 * Why am I seeing this ad?
 * (Desktop) Embed
-* (Mobile app) View edit history
+* (On posts that have been edited) View edit history
 
 We counted Hide Ad, Report Ad, and Why Am I Seeing This Ad? as ad controls. The rest are standard post controls that appear on all sponsored and non-sponsored Facebook posts.
 
