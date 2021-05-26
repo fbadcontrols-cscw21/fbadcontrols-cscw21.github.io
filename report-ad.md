@@ -25,7 +25,7 @@ Choosing to report an ad brings up a menu similar to the Ad Hidden menu, but the
 
 There is also a link to view Facebook's Ad Policies. The dialogue following submission of a reason to report also contains an extra link: *"I think [this ad] is an unauthorized use of my intellectual property."* After exiting the pop-up menu, the ad is replaced with a small message that says *Ad Reported* and contains the option to *Undo* the report.
 
-# Report Ad menu
+## Report Ad menu
 
-## iOS (May 2021)
+### iOS (May 2021)
 ![Report Ad menu on iOS with reasons for reporting an ad](contextual/reportad-0.jpeg)
