@@ -71,3 +71,6 @@ Three predefined topics (Alcohol, Parenting, and Pets) that users could choose n
 
 ### Control: Hide for... 
 Three toggles for each topic to hide for 6 months, 1 year, or permanently.
+
+### Desktop (April 2020)
+![hide ad topics](other/Hideadtopics.png)
