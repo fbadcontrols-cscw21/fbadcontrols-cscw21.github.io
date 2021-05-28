@@ -1,7 +1,8 @@
 ---
 title: Off-Facebook Activity
 has_children: true
-nav_order: 4
+parent: Other ad controls
+nav_order: 1
 ---
 
 # Off-Facebook Activity
