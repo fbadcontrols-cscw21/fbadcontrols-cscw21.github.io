@@ -1,6 +1,7 @@
 ---
 title: Manage Your Off-Facebook Activity
 parent: Off-Facebook Activity
+grand_parent: Other ad controls
 has_children: false
 nav_order: 1
 ---
