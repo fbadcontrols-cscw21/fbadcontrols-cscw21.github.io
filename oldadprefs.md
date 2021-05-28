@@ -1,6 +1,6 @@
 ---
 title: Your Ad Preferences (old)
-has_children: true
+has_children: false
 parent: Other ad controls
 nav_order: 2
 ---
