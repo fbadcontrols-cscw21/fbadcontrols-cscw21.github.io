@@ -6,7 +6,7 @@ nav_order: 2
 ---
 
 # Your Ad Preferences (prior to August 2020)
-The interaction to get to the Your Ad Preferences page (Figure~\ref{fig:oldadpref}) prior to 2020 was the same as the current interaction to Ad Preferences.
+The path to get to the Your Ad Preferences page prior to August 2020 was the same as the current path to Ad Preferences.
 
 ## Desktop (April 2020)
 ![Your Ad Preferences (prior to August 2020)](other/oldadpreferences.png)
