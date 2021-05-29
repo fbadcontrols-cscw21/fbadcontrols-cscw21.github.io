@@ -8,12 +8,12 @@ nav_order: 3
 # Ad Settings
 Most of the controls in Ad Preferences are found in the Ad Settings section. Ad Settings contains three subsections:
 
-* Common Questions, which includes two short descriptions about Facebook's advertising and data practices
-* Manage Data Used To Show You Ads, which links to the menus for Data About Your Activity From Partners, Categories Used To Reach You, Audience-Based Advertising, and Ads Shown Off Of Facebook.
-* Social Interactions, which leads to the control to manage whether a user's interactions (e.g. Likes) can be publicly shared alongside ads.
+* **Common Questions**, which includes two short descriptions about Facebook's advertising and data practices
+* **Manage Data Used To Show You Ads**, which links to the menus for Data About Your Activity From Partners, Categories Used To Reach You, Audience-Based Advertising, and Ads Shown Off Of Facebook.
+* **Social Interactions**, which leads to the control to manage whether a user's interactions (e.g. Likes) can be publicly shared alongside ads.
 
 ## Common Questions
-This subsection contains brief answers to two (at the time of review) questions about Facebook ads. A description of each question is below. More detailed versions of the questions and answers are available in Facebook's help pages **\cite{HowFBadswork, FBsellmydata}. There is also a link to "Learn More" which leads to a help page about Facebook Ads \cite{AdPrefsLearnMoreHub}.**
+This subsection contains brief answers to two (at the time of review) questions about Facebook ads. A description of each question is below. More detailed versions of the questions and answers are available in Facebook's help pages [[1](https://www.facebook.com/help/516147308587266/how-ads-work-on-facebook/?helpref=hc_fnav), [2](https://www.facebook.com/help/152637448140583)]. There is also a link to "Learn More" which leads to [a help page about Facebook Ads](https://www.facebook.com/ads/about/?entry_product=ad_preferences_hub).
 
 ### Question: What information is used to show me ads?
 _"We show you ads based on information we have about you and your activity, such as Page likes on Facebook. We may also use information we have about others and their activity to show you more relevant ads. If personalized ads based on data about your activity from partners are allowed, we can also use data like your activity on websites off of Facebook to decide which ads to show you."_
@@ -29,7 +29,7 @@ The "Data about your activity from partners" menu. Left: A Facebook account with
 ![Data from Partners](adprefs/dfp_2.png)
 
 ### Top description
-_"To show you relevant ads, we use data that advertisers and other partners provide to us about your activity on their websites and apps, as well as certain offline interactions, such as purchases. For example, we may show you an ad for a shirt based on your visit to a clothing website. We never sell your data."_ Following the description is a link to "Learn More," which leads to a help page about adjusting Data From Partners settings **\cite{DataFromPartnersHelp1}.**
+_"To show you relevant ads, we use data that advertisers and other partners provide to us about your activity on their websites and apps, as well as certain offline interactions, such as purchases. For example, we may show you an ad for a shirt based on your visit to a clothing website. We never sell your data."_ Following the description is a link to "Learn More," which leads to [a help page about adjusting Data From Partners settings](https://www.facebook.com/help/568137493302217).
 
 ### Control: Choose [whether/where] we can use data from our partners to show you personalized ads.
 This control is either a single switch or (if the user has one or more Instagram accounts connected to their Facebook account) a series of switches. Each switch is turned on by default. Turning off a switch disables ads targeted to that account based on data other companies provide to Facebook such as website activity and purchases (but not including on-Facebook activity or lists.) In this paper, we sometimes refer to this control as "Data from Partners."
@@ -44,13 +44,13 @@ This option is subtitled "Profile information, interests and other categories us
 Contains a list of switches that toggle on/off targeted ads based on certain types of information supplied in a user's Facebook profile. These types of information may include Employer, Job Title, Education (schools attended), and/or Relationship Status.
 
 ### Interests and Other Categories Used to Reach You
-This section contains links to two lists of controls, "Interest Categories" and "Other Categories." Interest Categories leads to a list of inferences **\cite{rader-2014-AwarenessBehavioral, NarrowThoughtProcess}** Facebook has made about a user related to their interests (e.g. _Shoes._) Other Categories leads to a similar list of inferences Facebook has made about a user related to their device usage (e.g. _Owns: iPad Mini 2._)
+This section contains links to two lists of controls, "Interest Categories" and "Other Categories." Interest Categories leads to a list of inferences [3, 4] Facebook has made about a user related to their interests (e.g. _Shoes._) Other Categories leads to a similar list of inferences Facebook has made about a user related to their device usage (e.g. _Owns: iPad Mini 2._)
 
 #### Control: Remove an interest from list
 In both lists under Interests and Other Categories Used to Reach You, a user can press a button to Remove any inference from the list. Immediately after the button is pressed, it is replaced with the option to Undo the action; after the user navigates away from the page, the inference disappears completely (Interest Categories) or moves to a separate list of Removed Categories (Other Categories).
 
 ## Audience-based advertising _(in Manage Data Used To Show You Ads)_ 
-This option is subtitled "Advertisers using your activity or information." Selecting it opens a page with a list of advertisers who have uploaded a list with PII **\cite{facebookforbusiness-2013-CustomAudiences}** that has been matched to your Facebook account.
+This option is subtitled "Advertisers using your activity or information." Selecting it opens a page with a list of advertisers who have [uploaded a list with PII](https://www.facebook.com/business/news/Custom-Audiences-Is-Now-Available-to-Every-Advertiser) that has been matched to your Facebook account.
 
 ### Desktop (February 2021)
 ![A list of advertisers shown in Audience-based advertising](adprefs/audiences_1.png)
@@ -85,3 +85,6 @@ In this menu, users can choose whether or not they want their Facebook interacti
 
 ### Control: Who can see your social interactions alongside ads?
 This control is a radio selector with two options, Friends (default) and Only Me. 
+
+###### [3] Emilee Rader. Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google. In *Proceedings of the 10th Symposium on Usable Privacy and Security (SOUPS 2014),* page 17, 2014.
+###### [4] Emilee Rader, Samantha Hautea, and Anjali Munasinghe."I Have a Narrow Thought Process": Constraints on expla-nations connecting inferences and self-perceptions. In *Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020),* pages 457–488. USENIX Association, August 2020.
