@@ -18,7 +18,7 @@ Selecting Hide Ad creates a pop-up "Ad Hidden" menu which asks the user to "Plea
 * Irrelevant
 * Already purchased
  
-Alternatively, they can close the pop-up without choosing a reason for why they hid the ad. If a reason is selected, the "Ad Hidden" menu brings up a list of other avenues to control ads, such as visiting ad preferences, hiding all ads from that advertiser, viewing the ad in the Ad Library, or opening the Why Am I Seeing This Ad? screen. After closing this window or if a reason is not selected, a small ""Ad Hidden" message will appear in the News Feed in place of the ad with the option to Undo hiding the ad.
+Alternatively, they can close the pop-up without choosing a reason for why they hid the ad. If a reason is selected, the "Ad Hidden" menu brings up a list of other avenues to control ads, such as visiting ad preferences, hiding all ads from that advertiser, viewing the ad in the [Ad Library](https://www.facebook.com/ads/library/), or opening the Why Am I Seeing This Ad? screen. After closing this window or if a reason is not selected, a small "Ad Hidden" message will appear in the News Feed in place of the ad with the option to Undo hiding the ad.
 
 ## Ad Hidden menu: "Please tell us why you hid this ad"
 
