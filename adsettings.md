@@ -44,7 +44,7 @@ This option is subtitled "Profile information, interests and other categories us
 Contains a list of switches that toggle on/off targeted ads based on certain types of information supplied in a user's Facebook profile. These types of information may include Employer, Job Title, Education (schools attended), and/or Relationship Status.
 
 ### Interests and Other Categories Used to Reach You
-This section contains links to two lists of controls, "Interest Categories" and "Other Categories." Interest Categories leads to a list of inferences [3, 4] Facebook has made about a user related to their interests (e.g. _Shoes._) Other Categories leads to a similar list of inferences Facebook has made about a user related to their device usage (e.g. _Owns: iPad Mini 2._)
+This section contains links to two lists of controls, "Interest Categories" and "Other Categories." Interest Categories leads to a list of inferences [[3](#3-emilee-rader-awareness-of-behavioral-tracking-and-information-privacy-concern-in-facebook-and-google-in-proceedings-of-the-10th-symposium-on-usable-privacy-and-security-soups-2014-page-17-2014), [4](#4-emilee-rader-samantha-hautea-and-anjali-munasinghei-have-a-narrow-thought-process-constraints-on-expla-nations-connecting-inferences-and-self-perceptions-in-sixteenth-symposium-on-usable-privacy-and-security-soups-2020-pages-457488-usenix-association-august-2020)] Facebook has made about a user related to their interests (e.g. _Shoes._) Other Categories leads to a similar list of inferences Facebook has made about a user related to their device usage (e.g. _Owns: iPad Mini 2._)
 
 #### Control: Remove an interest from list
 In both lists under Interests and Other Categories Used to Reach You, a user can press a button to Remove any inference from the list. Immediately after the button is pressed, it is replaced with the option to Undo the action; after the user navigates away from the page, the inference disappears completely (Interest Categories) or moves to a separate list of Removed Categories (Other Categories).
@@ -86,5 +86,5 @@ In this menu, users can choose whether or not they want their Facebook interacti
 ### Control: Who can see your social interactions alongside ads?
 This control is a radio selector with two options, Friends (default) and Only Me. 
 
-###### [3] Emilee Rader. Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google. In *Proceedings of the 10th Symposium on Usable Privacy and Security (SOUPS 2014),* page 17, 2014.
-###### [4] Emilee Rader, Samantha Hautea, and Anjali Munasinghe."I Have a Narrow Thought Process": Constraints on expla-nations connecting inferences and self-perceptions. In *Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020),* pages 457–488. USENIX Association, August 2020.
+#### [3] Emilee Rader. Awareness of Behavioral Tracking and Information Privacy Concern in Facebook and Google. In *Proceedings of the 10th Symposium on Usable Privacy and Security (SOUPS 2014),* page 17, 2014.
+#### [4] Emilee Rader, Samantha Hautea, and Anjali Munasinghe."I Have a Narrow Thought Process": Constraints on expla-nations connecting inferences and self-perceptions. In *Sixteenth Symposium on Usable Privacy and Security (SOUPS 2020),* pages 457–488. USENIX Association, August 2020.
