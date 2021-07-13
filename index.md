@@ -4,7 +4,7 @@ has_children: false
 nav_order: 1
 ---
 
-# Facebook ad controls
+# Facebook ad controls (CSCW '22)
 
 This is Appendix C of Identifying User Needs for Advertising Controls on Facebook. In this appendix, we provide a summary of the interfaces we observed related to advertising during the course of our study. 
 
